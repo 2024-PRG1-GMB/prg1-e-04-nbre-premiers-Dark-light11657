@@ -1,0 +1,12 @@
+- Beaucoup trop de warnings dans votre code, de plus ils sont facilement réglés
+- 2 libraries inutiles dans votre projet
+- Pas d'en-tête avec nom, prénom, date et explicatif
+- ligne 52, pourquoi faire une pré-incémentation?
+- Pas de constantes pour les limites et les entrées utilisateur
+- la nom de variable "vrai" n'est pas adéquate
+- Ligne 16 et 25, faute d'orthographe
+- indentation pas toujours respcetée (ligne 16, 20, ...)
+- 2 est une entrée correcte!
+- Votre algorithme de primalité ne fonctionne pas du tout
+- Aucun commentaire dans votre code
+- Vous n'avez pas non plus respecté l'affichage demandé par la donnée
